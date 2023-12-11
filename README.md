@@ -1,7 +1,7 @@
 
 # Mentor-Student Assigning API
 
-This repository contains an Express.js server with APIs to manage mentors, students, and their assignments using a MongoDB database.
+This repository contains an Express.js server with APIs to manage mentors, students, and their assignments using a MongoDB database. This API allows for creating mentors and students, assigning students to mentors, managing mentor-student relationships, and retrieving relevant information such as assigned students for a mentor or the previous mentor of a student.
 
 
 ## Features
