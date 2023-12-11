@@ -43,13 +43,13 @@ This repository contains an Express.js server with APIs to manage mentors, stude
 
 1. Clone the repository: 
 git clone :
-`https://github.com/Vijayarajvijay/Mentor-and-Student-Assigning`
+https://github.com/Vijayarajvijay/Mentor-and-Student-Assigning
 
 2. Install dependencies: `npm install`
 
 3. Set up your MongoDB database and add the connection string in a `.env` file.
 4. Start the server: `npm start`
-5. postman Link : `https://documenter.getpostman.com/view/30449043/2s9Ykhgivx`
+5. postman Link : https://documenter.getpostman.com/view/30449043/2s9Ykhgivx
 
 ## Usage
 
